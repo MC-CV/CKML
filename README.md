@@ -1,4 +1,4 @@
-![image](https://github.com/MC-CV/CKML/assets/78188024/b35a7aed-a178-4cd6-9807-8190d9f43a80)# CKML
+# CKML
 This is our Tensorflow implementation for CKML.
 
 The code has been tested running under Python 3.6.15. The required packages are as follows:
