@@ -26,14 +26,14 @@ python labcode_retail.py --data tmall
 ## Citation
 If you want to use our codes and datasets in your research, please cite:
 ```
-@article{ckml,
-title = {Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation},
-author = {Meng, Chang and Zhao, Ziqi and Guo, Wei and Zhang, Yingxue and Wu, Haolun and Gao, Chen and Li, Dong and Li, Xiu and Tang, Ruiming},
-year = {2023},
-volume = {42},
-number = {1},
-journal = {ACM Trans. Inf. Syst.},
-articleno = {30},
-numpages = {27}
+@article{meng2023coarse,
+  title={Coarse-to-fine knowledge-enhanced multi-interest learning framework for multi-behavior recommendation},
+  author={Meng, Chang and Zhao, Ziqi and Guo, Wei and Zhang, Yingxue and Wu, Haolun and Gao, Chen and Li, Dong and Li, Xiu and Tang, Ruiming},
+  journal={ACM Transactions on Information Systems},
+  volume={42},
+  number={1},
+  pages={1--27},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
